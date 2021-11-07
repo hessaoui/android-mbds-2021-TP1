@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyActivities</string>
+    <string name="click">You clicked %d times</string>
+    <string name="compute">Do a calculi</string>
+    <string name="nb2">nb2</string>
+    <string name="nb1">nb1</string>
+    <string name="you_click">you_clicked %d times</string>
+    <string name="compute_text">Start a calculi</string>
+</resources>
